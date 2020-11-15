@@ -15,8 +15,7 @@ For the session content, I will be using one of the flutter codelabs published b
 - [English words package](https://pub.dev/packages/english_words/install)
 - [BTUI App challenge submission link](https://btui.rccsonline.com/dashbash)
 
-![demo1](/docs/demo1.gif)
-
+![demo1](/docs/demo2.gif)
 
 ### Other useful links
 
