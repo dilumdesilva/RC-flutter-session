@@ -20,7 +20,7 @@ For the session content, I will be using one of the flutter codelabs published b
 
 ### Other useful links
 
-[Follow Colombo Flutter Community to keep youe self updated with flutter news](https://www.facebook.com/flutterCMB)
-[Learn more about flutter widgets](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
-[Flutter material library](https://api.flutter.dev/flutter/material/material-library.html)
-[Flutter resouce collection](https://github.com/Solido/awesome-flutter)
+- [Follow Colombo Flutter Community to keep youe self updated with flutter news](https://www.facebook.com/flutterCMB)
+- [Learn more about flutter widgets](https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+- [Flutter material library](https://api.flutter.dev/flutter/material/material-library.html)
+- [Flutter resouce collection](https://github.com/Solido/awesome-flutter)
